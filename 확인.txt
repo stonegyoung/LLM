@@ -1,0 +1,5 @@
+langchain.llms의 OpenAI는 langchain 0.1버전에서만 지원되고 최신 버전에서 없어졌기 때문에
+pip install langchain==0.1.8을 설치합니다
+
+만약 최신 버전을 사용하고 싶다면
+langchain.chat_models의 ChatOpenAI를 사용해야 합니다
